@@ -1,0 +1,9 @@
+D:\Programy\C#\RPN\RPN\bin\Debug\RPN.exe.config
+D:\Programy\C#\RPN\RPN\bin\Debug\RPN.exe
+D:\Programy\C#\RPN\RPN\bin\Debug\RPN.pdb
+D:\Programy\C#\RPN\RPN\obj\Debug\RPN.csprojResolveAssemblyReference.cache
+D:\Programy\C#\RPN\RPN\obj\Debug\RPN.Form1.resources
+D:\Programy\C#\RPN\RPN\obj\Debug\RPN.Properties.Resources.resources
+D:\Programy\C#\RPN\RPN\obj\Debug\RPN.csproj.GenerateResource.Cache
+D:\Programy\C#\RPN\RPN\obj\Debug\RPN.exe
+D:\Programy\C#\RPN\RPN\obj\Debug\RPN.pdb
