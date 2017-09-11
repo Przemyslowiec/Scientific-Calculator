@@ -7,3 +7,6 @@ D:\Programy\C#\RPN\RPN\obj\Debug\RPN.Properties.Resources.resources
 D:\Programy\C#\RPN\RPN\obj\Debug\RPN.csproj.GenerateResource.Cache
 D:\Programy\C#\RPN\RPN\obj\Debug\RPN.exe
 D:\Programy\C#\RPN\RPN\obj\Debug\RPN.pdb
+D:\Programy\Repozytorium\Scientific-Calculator\RPN\bin\Debug\RPN.exe.config
+D:\Programy\Repozytorium\Scientific-Calculator\RPN\obj\Debug\RPN.exe
+D:\Programy\Repozytorium\Scientific-Calculator\RPN\obj\Debug\RPN.pdb
